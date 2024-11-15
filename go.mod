@@ -1,3 +1,3 @@
-module github.com/bep/gallerydeluxe
+module github.com/ihendrick/gallerydeluxe
 
 go 1.19
